@@ -1,0 +1,69 @@
+
+body{
+	background-color: #F9BD05;
+}
+
+.cs-text1{
+	margin-top: 5%;
+	margin-left: 20%;
+	background-color: white;
+	width: 60%;
+	height: 200px;
+	border-radius: 50px;
+	
+}
+.cs-text2{
+	padding-left: 37%;
+	width: 25%;
+	height: 220px;
+}
+.cs-text3{
+	background-color: #ffe5cc;
+	width: 60%;
+	margin-left: 20%;
+	height: auto ;
+	border-radius: 50px;
+	padding-bottom: 5%;
+}
+
+.heading{
+	text-align: center;
+	font-size: 50px;
+}
+.frm{
+	text-align: center; 
+	margin-top: 5%
+}
+
+.bdr{
+	border-bottom: 1px solid black;
+}
+
+label{
+	font-size: 26px;
+}
+
+input[type=text], textarea,select, button {
+	width: 25%;
+	padding: 5px 10px;
+	border-radius: 10px;
+	border: 2px solid #ccc;
+}
+input:focus { 
+    outline: none ;
+    border-color: #719ECE;
+    box-shadow: 0 0 10px #719ECE;
+}
+textarea:focus { 
+    outline: none ;
+    border-color: #719ECE;
+    box-shadow: 0 0 10px #719ECE;
+}
+
+.cs-text4{
+	margin-left: 20%;
+	width: 60%;
+	text-align: center;
+	font-size: 26px;
+	
+}
